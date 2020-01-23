@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
- */
-/* File BubbleSort.java */
-/*
- * Assignment 8.2
  * Purpose: Create an array list of 10 randomly generated numbers
  * and use a method to "bubble sort" them in descending order
  *
