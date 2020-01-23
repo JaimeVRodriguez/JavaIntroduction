@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
- */
-/* File PalindromeInteger.java */
-/*
- * Assignment 3.3
  * Purpose: Determine whether users input number is a palindrome integer
  *
  * To compile the program:
