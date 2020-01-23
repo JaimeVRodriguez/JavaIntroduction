@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
- */
-/* File Overload.java */
-/*
- * Assignment 6.2
  * Purpose: Use method overload in order to run the difference between
  * a set of 2 numbers (the larger of int and double)
  *
