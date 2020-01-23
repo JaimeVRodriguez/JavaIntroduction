@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
- */
-/* File FeetToMeters.java */
-/*
- * Assignment 2.2
  * Purpose: Convert value of feet to meters
  *
  * To compile the program:
