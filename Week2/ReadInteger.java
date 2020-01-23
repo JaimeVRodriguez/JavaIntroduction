@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
- */
-/* File FeetToMeters.java */
-/*
- * Assignment 2.3
  * Purpose: Find the sum of all digits in an integer
  *
  * To compile the program:
