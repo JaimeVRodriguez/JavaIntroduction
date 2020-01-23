@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
-        */
-/* File SquareRoot.java */
-/*
- * Assignment 5.2
  * Purpose: Display a chart of the square root of even numbers from 0 to 20
  *
  * To compile the program:
