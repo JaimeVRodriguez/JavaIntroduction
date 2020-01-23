@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
- */
-/* File RandomArray.java */
-/*
- * Assignment 7.2
  * Purpose: Create an array list of 10 randomly generated numbers
  * and print the result of the array list
  *
