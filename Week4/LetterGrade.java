@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
- */
-/* File LetterGrade.java */
-/*
- * Assignment 4.3
  * Purpose: Generate a numerical value to a letter grade
  *
  * To compile the program:
