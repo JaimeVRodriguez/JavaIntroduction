@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
- */
-/* File MonthGenerator.java */
-/*
- * Assignment 3.2
  * Purpose: Convert randomly generated number into a corresponding month
  *
  * To compile the program:
