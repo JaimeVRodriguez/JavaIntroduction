@@ -1,3 +1,2 @@
 # Introduction-To-Java
-Files for are reference and learning purposes only.
-Assignments may differ and should not be copied as per most University policies. 
+These files represent introductory and basic Java language programs. This should be used to build a strong foundation in the Java language 
