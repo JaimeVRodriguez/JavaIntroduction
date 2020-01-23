@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
- */
-/* File Client.java */
-/*
- * Assignment 9.3
  * Purpose: Construct a MyRectangle class that constructs a rectangle
  * and will be able to a run a client program that will identify different
  * parameters of each respective rectangle
