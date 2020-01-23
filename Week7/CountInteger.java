@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
- */
-/* File CountInteger.java */
-/*
- * Assignment 7.3
  * Purpose: Create an array (numbers 0-9) in order to produce
  * 100 numbers within this array. The ultimate goal being
  * to count the occurrence of each of these numbers
