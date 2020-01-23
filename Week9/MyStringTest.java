@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
- */
-/* File MyStringTest.java */
-/*
- * Assignment 9.4
  * Purpose: Create a program that will turn an user input string
  * and return the string in reverse order
  *
