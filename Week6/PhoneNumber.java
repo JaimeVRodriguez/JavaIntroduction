@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
- */
-/* File PhoneNumber.java */
-/*
- * Assignment 6.3
  * Purpose: Convert a given alphanumeric phone number (string) to a standard phone number
  *
  * To compile the program:
