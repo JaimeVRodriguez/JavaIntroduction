@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
- */
-/* File SumMethod.java */
-/*
- * Assignment 5.3
  * Purpose: Sum the three digits input by user using a method
  *
  * To compile the program:
