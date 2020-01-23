@@ -1,12 +1,4 @@
 /*
- *
- * Student Jaime Rodriguez
- * Bellevue University
- *
- */
-/* File NestedLoop.java */
-/*
- * Assignment 4.2
  * Purpose: Use nested loops in order to "print" desired numerical outline
  *
  * To compile the program:
